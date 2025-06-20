@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+session_name.session
+.env
